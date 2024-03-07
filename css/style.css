@@ -32,7 +32,7 @@ body{
     position: absolute;
 }
 .estrella:hover{
-    opacity: calc(0.8);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
 }
 .yosi{
     width: 250px;
@@ -47,7 +47,7 @@ body{
     position: absolute;
 }
 .mario:hover{
-    opacity: calc(0.8);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
 }
 .caja1{
     width: 200px;
